@@ -1,2 +1,2 @@
 # ODD-EVEN
-Code for to find odd eveb number 
+Code for to find odd even number 
